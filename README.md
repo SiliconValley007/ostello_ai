@@ -1,16 +1,9 @@
 # ostello_ai
 
-A new Flutter project.
+A Flutter project for the demonstration of the UI provided in the following link:
 
-## Getting Started
+[https://www.figma.com/file/PvN6VeuuqiUm0xtSto4Mmq/Untitled?type=design&amp;node-id=0%3A1&amp;mode=dev](https://www.figma.com/file/PvN6VeuuqiUm0xtSto4Mmq/Untitled?type=design&node-id=0%3A1&mode=dev)
 
-This project is a starting point for a Flutter application.
+## Demo of the UI built
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Following is a demo of the UI built purely in flutter, according to design file provided in the above link.
